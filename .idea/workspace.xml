@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51883f4f-b90b-443d-b9c0-8b41a22a3566" name="Default Changelist" comment="" />
+    <list default="true" id="51883f4f-b90b-443d-b9c0-8b41a22a3566" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_project/settings.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +17,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web_project/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="90" column="1" selection-start-line="90" selection-start-column="1" selection-end-line="90" selection-end-column="1" />
+            <state relative-caret-position="150">
+              <caret line="82" column="146" selection-start-line="82" selection-start-column="146" selection-end-line="82" selection-end-column="146" />
               <folding>
                 <element signature="e#311#331#0" expanded="true" />
               </folding>
@@ -25,13 +29,16 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Dockerfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+            <state relative-caret-position="105">
+              <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -42,11 +49,12 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="671" />
-    <option name="y" value="207" />
+    <option name="x" value="534" />
+    <option name="y" value="177" />
     <option name="width" value="1562" />
     <option name="height" value="531" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -72,6 +80,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -100,11 +109,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="671" y="207" width="1562" height="531" extended-state="0" />
+    <frame x="534" y="177" width="1562" height="531" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24951267" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24951267" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
@@ -144,15 +153,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        <state relative-caret-position="105">
+          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web_project/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="90" column="1" selection-start-line="90" selection-start-column="1" selection-end-line="90" selection-end-column="1" />
+        <state relative-caret-position="150">
+          <caret line="82" column="146" selection-start-line="82" selection-start-column="146" selection-end-line="82" selection-end-column="146" />
           <folding>
             <element signature="e#311#331#0" expanded="true" />
           </folding>
